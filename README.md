@@ -1,7 +1,7 @@
-# Seção
+# Perfil
 
-## Subseção 1
-Olá, meu nome é Nicolly
+## Nome e idade
+Meu nome é Nicolly e tenho 16 anos.
 
-## Subseção 2
-Estudante do 1° ano do ensino médio
+##  Infom
+Estou cursando o 1 °  ano  do ensino medio 
