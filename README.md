@@ -4,4 +4,4 @@
 Olá, meu nome é Nicolly
 
 ## Subseção 2
-Estudante
+Estudante do 1° ano do ensino médio
